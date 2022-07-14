@@ -1,6 +1,6 @@
 # Baatain
 
-**This is a RealTime chatting Application which connects friends family and colleagues and allows them to chat, voice over talk, and exchnage ideas over a collaborative white board.**
+**This is a RealTime chatting Application which connects friends family and colleagues and allows them to chat.
 ## Dependencies used
    * [Mongoose](https://mongoosejs.com/docs/)
    * [Express](http://expressjs.com/)
