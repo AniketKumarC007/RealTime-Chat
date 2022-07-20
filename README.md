@@ -32,3 +32,6 @@
  ## Set Avatar
 <img src="./pictures/set_avatar.gif" width="1000"> <br>
 - Here users can choose an avatar from a list of dynamically generated set of Avatars
+ ## Welcome Page
+<img src="./pictures/welcome_page.gif" width="1000"> <br>
+
