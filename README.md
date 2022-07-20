@@ -4,7 +4,7 @@
 ## Dependencies used
    * [React](https://reactjs.org/)
    * [Styled-Components](https://styled-components.com/)
-   * [Reactify](https://fkhadra.github.io/react-toastify/introduction)
+   * [React-toastify](https://fkhadra.github.io/react-toastify/introduction)
    * [Mongoose](https://mongoosejs.com/docs/)
    * [Axios](https://axios-http.com/)
    * [Express](http://expressjs.com/)
