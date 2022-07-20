@@ -26,3 +26,6 @@
 - Open terminal in server directory and Run `npm start` to start the server.
 - Open terminal in public directory and Run `npm start` the app.
 - Open http://localhost:3000 to view it in the browser.
+## Welcome Page
+<img src="./pictures/p1.gif" width="1000"> <br>
+- Here user can register a new account.
