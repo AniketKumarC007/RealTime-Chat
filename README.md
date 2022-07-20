@@ -34,4 +34,8 @@
 - Here users can choose an avatar from a list of dynamically generated set of Avatars
  ## Welcome Page
 <img src="./pictures/welcome_page.gif" width="1000"> <br>
+## Sending And Receiving Messages
+<img src="./pictures/p1.png" width="1000"> <br>
+<img src="./pictures/p2.png" width="1000"> <br>
+## Thank You
 
