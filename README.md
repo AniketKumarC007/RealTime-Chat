@@ -29,3 +29,6 @@
 ## Welcome Page
 <img src="./pictures/register_page.gif" width="1000"> <br>
 - Here user can register a new account.
+ ## Set Avatar
+<img src="./pictures/register_page.gif" width="1000"> <br>
+- Here users can choose an avatar from a list of dynamically generated set of Avatars
