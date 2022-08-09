@@ -8,7 +8,6 @@
    * [Mongoose](https://mongoosejs.com/docs/)
    * [Axios](https://axios-http.com/)
    * [Express](http://expressjs.com/)
-   * [Passport](http://www.passportjs.org/docs/)
    * [Socket.IO](https://socket.io/docs/v4/)
    
    
